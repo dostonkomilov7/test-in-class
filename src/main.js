@@ -20,6 +20,8 @@ app.all("*splat", (req, res) => {
 
 console.log("Hii Faxriddin");
 
+console.log("qwertyuiop");
+
 app.listen(APP_PORT, () => {
   console.log(`listening on ${APP_PORT}`);
 });
