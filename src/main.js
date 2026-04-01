@@ -18,6 +18,8 @@ app.all("*splat", (req, res) => {
   });
 });
 
+console.log("Faxriddin");
+
 app.listen(APP_PORT, () => {
   console.log(`listening on ${APP_PORT}`);
 });
