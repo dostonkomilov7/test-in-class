@@ -22,6 +22,8 @@ console.log("Hii Faxriddin");
 
 console.log("qwertyuiop");
 
+//! ishlaaaaaaa
+
 app.listen(APP_PORT, () => {
   console.log(`listening on ${APP_PORT}`);
 });
