@@ -20,7 +20,7 @@ app.all("*splat", (req, res) => {
 
 console.log("Hii Faxriddin");
 
-console.log("HIII Dostonchikkkkkkkkkkkkkkkkkk ( ")
+console.log("qwertyuiop");
 
 //! ishlaaaaaaa
 
